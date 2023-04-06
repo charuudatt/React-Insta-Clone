@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+#nav {
+    display: flex;
+    box-sizing: border-box;
+}
+
+#icon {
+    position: relative;
+    left: 6.5em;
+    height: 3em;
+    top: 0.5em;
+}
+
+#heading {
+    position: relative;
+    color: #006238;
+    top: 0.3em;
+    left: 2.8em;
+    font-size: 40px;
+}
+
+#camera {
+    position: relative;
+    left: 60em;
+    height: 2em;
+    top: 1em;
+}
+
+hr {
+    position: relative;
+    top: 1.5em;
+    color: #006238;
+    border-top: 1px solid ;
+}
+
+#form-box {
+    position: absolute;
+    padding: 1em;
+    margin-left: 33.33%;
+    box-sizing: border-box;
+    top: 8em;
+    border: 1px solid black;
+    height: 12em;
+    width: 33.33%;
+
+}
+
+#file { 
+    display: block
+}
+
+#author {
+    display: inline;
+    margin: 1.5em 0em;
+}
+
+#location {
+    display: inline;
+    margin-left: 5em;
+}
+
+#desc {
+    display: block;
+    width: 97%
+}
+
+#submit {
+    margin: 1.5em 0em 0em 40%;
+    width: 20%;
+    height: 2em;
+}

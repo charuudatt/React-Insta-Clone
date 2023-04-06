@@ -1,0 +1,37 @@
+#div {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    display: flex;
+}
+
+#landing-img {
+    display: inline;
+    width: 30vw;
+    height: 90vh;
+    margin: 1.5em 20em;
+}
+
+#enter-parent {
+    display: inline;
+    position: relative;
+    right: 15em;
+    top: 20em;
+
+}
+
+#enter {
+    width: 6em;
+    height: 2em;
+    color: #006238;
+    border-color: #006238;
+    border-radius: 10px;
+    font-size: large;
+}
+
+#heading-div {
+    position: relative;
+    top: 14em;
+    right: 13em;
+    display: inline;
+    color: #006238;
+}
